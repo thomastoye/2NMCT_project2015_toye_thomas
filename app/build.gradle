@@ -33,4 +33,7 @@ dependencies {
     compile 'com.fasterxml.jackson.core:jackson-core:2.5.3'
     compile 'com.fasterxml.jackson.core:jackson-annotations:2.5.3'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.5.3'
+
+    compile 'com.androidmapsextensions:android-maps-extensions:2.2.0'
+    compile 'com.google.android.gms:play-services-maps:6.5.87'
 }

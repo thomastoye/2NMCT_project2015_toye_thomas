@@ -11,6 +11,9 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
 
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.location.LocationServices;
+
 
 public class MainActivity extends Activity {
 
@@ -23,6 +26,12 @@ public class MainActivity extends Activity {
                     .add(R.id.container, new MainFragment())
                     .commit();
         }
+
+        GoogleApiClient.Builder builder = new GoogleApiClient.Builder(getBaseContext())
+                                            .addApi(LocationServices.API);
+
+        GoogleApiClient apiClient = builder.build();
+
     }
 
 
