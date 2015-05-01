@@ -28,12 +28,19 @@ android {
 
 dependencies {
     compile fileTree(dir: 'libs', include: ['*.jar'])
+
+    // Play Services
     compile 'com.google.android.gms:play-services:7.0.0'
 
+    // Picasso (image loading library)
+    compile 'com.squareup.picasso:picasso:2.5.2'
+
+    // JSON deserialisation
     compile 'com.fasterxml.jackson.core:jackson-core:2.5.3'
     compile 'com.fasterxml.jackson.core:jackson-annotations:2.5.3'
     compile 'com.fasterxml.jackson.core:jackson-databind:2.5.3'
 
+    // Google Maps and extensions
     compile 'com.androidmapsextensions:android-maps-extensions:2.2.0'
     compile 'com.google.android.gms:play-services-maps:6.5.87'
 }
