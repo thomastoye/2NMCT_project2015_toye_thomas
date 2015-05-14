@@ -109,6 +109,25 @@ public class Geocode {
     }
 
     public String getAddress() {
-        return streetName + " " + streetNumber + ", " + zipcode + " " + city;
+        StringBuffer res = new StringBuffer();
+        if(streetName != null) {
+            res.append(streetName);
+            if(streetNumber != null) {
+                res.append(" ");
+                res.append(streetNumber);
+            }
+            res.append(", ");
+        }
+
+        if(zipcode != null) {
+            res.append(zipcode);
+            res.append(" ");
+        }
+
+        if(city != null) {
+            res.append(city);
+        }
+
+        return res.toString();
     }
 }
