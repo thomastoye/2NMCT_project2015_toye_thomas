@@ -1,6 +1,15 @@
 package be.thomastoye.findafrietkot.model;
 
 
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
+
+import java.io.IOException;
+import java.io.InputStream;
+import java.util.List;
+
+import be.thomastoye.findafrietkot.R;
+
 public class Frietkot {
     private String name;
     private double rating;
@@ -40,5 +49,10 @@ public class Frietkot {
 
     public void setGeocode(Geocode geocode) {
         this.geocode = geocode;
+    }
+
+    public static List<Frietkot> getAll(InputStream inputStream) throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        return mapper.readValue(inputStream, new TypeReference<List<Frietkot>>() {});
     }
 }

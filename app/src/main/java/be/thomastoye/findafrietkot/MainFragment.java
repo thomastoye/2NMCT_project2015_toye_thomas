@@ -2,9 +2,7 @@ package be.thomastoye.findafrietkot;
 
 
 import android.content.Context;
-import android.location.Address;
 import android.location.Criteria;
-import android.location.Geocoder;
 import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
@@ -12,34 +10,23 @@ import android.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.androidmapsextensions.MapFragment;
-import com.fasterxml.jackson.core.type.TypeReference;
-import com.fasterxml.jackson.databind.ObjectMapper;
 
-import com.androidmapsextensions.Circle;
-import com.androidmapsextensions.CircleOptions;
 import com.androidmapsextensions.ClusteringSettings;
 import com.androidmapsextensions.GoogleMap;
-import com.androidmapsextensions.GoogleMap.InfoWindowAdapter;
-import com.androidmapsextensions.GoogleMap.OnInfoWindowClickListener;
-import com.androidmapsextensions.GoogleMap.OnMapClickListener;
 import com.androidmapsextensions.Marker;
 import com.androidmapsextensions.MarkerOptions;
 import com.google.android.gms.maps.CameraUpdate;
 import com.google.android.gms.maps.CameraUpdateFactory;
-import com.google.android.gms.maps.model.BitmapDescriptor;
-import com.google.android.gms.maps.model.BitmapDescriptorFactory;
 import com.google.android.gms.maps.model.LatLng;
-import com.google.android.gms.maps.model.LatLngBounds;
-import com.google.android.gms.maps.model.LatLngBounds.Builder;
 
 import java.io.IOException;
 import java.util.List;
 
 import be.thomastoye.findafrietkot.model.Frietkot;
+import be.thomastoye.findafrietkot.model.FrietkotMarkerData;
 
 
 public class MainFragment extends Fragment {
@@ -60,28 +47,22 @@ public class MainFragment extends Fragment {
         MapFragment mapFragment = (MapFragment) fragment;
         map = mapFragment.getExtendedMap();
 
-        map.setInfoWindowAdapter(new FrietkotInfoWindowAdapter(inflater, getActivity().getBaseContext()));
+        map.setInfoWindowAdapter(new FrietkotInfoWindowAdapter(inflater, getActivity().getBaseContext(), getActivity()));
 
         map.setClustering(new ClusteringSettings().enabled(true).minMarkersCount(15));
 
         moveMapCenterToCurrentPositionOrDefault();
 
         try {
-            ObjectMapper mapper = new ObjectMapper();
-
-            List<Frietkot> list = mapper.readValue(getResources().openRawResource(R.raw.friturengeocoded), new TypeReference<List<Frietkot>>() {
-            });
+            List<Frietkot> list = Frietkot.getAll(getResources().openRawResource(R.raw.friturengeocoded));
 
             for (Frietkot frietkot : list) {
                 try {
                     map.addMarker(new MarkerOptions()
-                                    .position(
-                                            new LatLng(frietkot.getGeocode().getLatitude(), frietkot.getGeocode().getLongitude())
-                                    )
-                                    .draggable(false)
+                                    .position(new LatLng(frietkot.getGeocode().getLatitude(), frietkot.getGeocode().getLongitude()))
                                     .title(frietkot.getName())
                                     .snippet(frietkot.getGeocode().getAddress())
-                    ).setData(frietkot);
+                    ).setData(new FrietkotMarkerData(frietkot));
                 } catch (NullPointerException e) {
                     Toast.makeText(getActivity().getBaseContext(), "NPE", Toast.LENGTH_LONG).show();
                 }
@@ -93,24 +74,20 @@ public class MainFragment extends Fragment {
         map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
             @Override
             public void onInfoWindowClick(Marker marker) {
-
+                marker.showInfoWindow();
+                Toast.makeText(getActivity().getBaseContext(), "Showed info window", Toast.LENGTH_SHORT);
 
             }
         });
 
-        /*map.setOnMarkerClickListener(new GoogleMap.OnMarkerClickListener() {
-            @Override
-            public boolean onMarkerClick(Marker marker) {
-                Toast.makeText(getActivity().getBaseContext(), "Marker clicked " + marker.getSnippet(), Toast.LENGTH_SHORT).show();
-                return false;
-            }
-        });*/
         return v;
     }
 
+    // This code was inspired by http://stackoverflow.com/questions/6181704/good-way-of-getting-the-users-location-in-android
+    //  and seems to have better accuracy than default LocationManager.getBestProvider()
     private void moveMapCenterToCurrentPositionOrDefault() {
         LocationManager mng = (LocationManager) getActivity().getSystemService(Context.LOCATION_SERVICE);
-        Location location = mng.getLastKnownLocation(mng.getBestProvider(new Criteria(), false));
+        Location location = null;
 
         List<String> providers = mng.getProviders(true);
         Location bestLocation = null;
