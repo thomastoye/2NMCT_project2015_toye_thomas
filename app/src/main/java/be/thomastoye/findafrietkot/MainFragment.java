@@ -1,13 +1,13 @@
 package be.thomastoye.findafrietkot;
 
 
+import android.app.Activity;
 import android.content.Context;
-import android.location.Criteria;
 import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.app.Fragment;
-import android.util.Log;
+import android.view.InflateException;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -32,55 +32,77 @@ import be.thomastoye.findafrietkot.model.FrietkotMarkerData;
 
 public class MainFragment extends Fragment {
 
-    GoogleMap map;
+    private static View view;
+    private GoogleMap map;
+    private OnSelectFrietkotListener onSelectFrietkotListener;
 
     public MainFragment() {
         // Required empty public constructor
     }
 
+    @Override
+    public void onAttach(Activity activity) {
+        super.onAttach(activity);
+
+        try {
+            onSelectFrietkotListener = (OnSelectFrietkotListener) activity;
+        } catch (ClassCastException e) {
+            throw new ClassCastException(activity.toString() + " must implement OnSelectFrietkotListener");
+        }
+    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        View v = inflater.inflate(R.layout.fragment_main, container, false);
 
-        Fragment fragment = getChildFragmentManager().findFragmentById(R.id.mapView);
-        MapFragment mapFragment = (MapFragment) fragment;
-        map = mapFragment.getExtendedMap();
-
-        map.setInfoWindowAdapter(new FrietkotInfoWindowAdapter(inflater, getActivity().getBaseContext(), getActivity()));
-
-        map.setClustering(new ClusteringSettings().enabled(true).minMarkersCount(15));
-
-        moveMapCenterToCurrentPositionOrDefault();
-
-        try {
-            List<Frietkot> list = Frietkot.getAll(getResources().openRawResource(R.raw.friturengeocoded));
-
-            for (Frietkot frietkot : list) {
-                try {
-                    map.addMarker(new MarkerOptions()
-                                    .position(new LatLng(frietkot.getGeocode().getLatitude(), frietkot.getGeocode().getLongitude()))
-                                    .title(frietkot.getName())
-                                    .snippet(frietkot.getGeocode().getAddress())
-                    ).setData(new FrietkotMarkerData(frietkot));
-                } catch (NullPointerException e) {
-                    Toast.makeText(getActivity().getBaseContext(), "NPE", Toast.LENGTH_LONG).show();
-                }
-            }
-        } catch (IOException e) {
-            Toast.makeText(getActivity().getBaseContext(), "Could open/parse JSON", Toast.LENGTH_LONG).show();
+        if (view != null) {
+            ViewGroup parent = (ViewGroup) view.getParent();
+            if (parent != null)
+                parent.removeView(view);
         }
 
-        map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
-            @Override
-            public void onInfoWindowClick(Marker marker) {
-                Toast.makeText(getActivity().getBaseContext(), "Showed info window", Toast.LENGTH_SHORT).show();
+        try {
+            view = inflater.inflate(R.layout.fragment_main, container, false);
 
+            Fragment fragment = getChildFragmentManager().findFragmentById(R.id.mapView);
+            MapFragment mapFragment = (MapFragment) fragment;
+            map = mapFragment.getExtendedMap();
+
+            map.setInfoWindowAdapter(new FrietkotInfoWindowAdapter(inflater, getActivity().getBaseContext(), getActivity()));
+
+            map.setClustering(new ClusteringSettings().enabled(true).minMarkersCount(15));
+
+            moveMapCenterToCurrentPositionOrDefault();
+
+            try {
+                List<Frietkot> list = Frietkot.getAll(getResources().openRawResource(R.raw.friturengeocoded));
+
+                for (Frietkot frietkot : list) {
+                    try {
+                        map.addMarker(new MarkerOptions()
+                                        .position(new LatLng(frietkot.getGeocode().getLatitude(), frietkot.getGeocode().getLongitude()))
+                                        .title(frietkot.getName())
+                                        .snippet(frietkot.getGeocode().getAddress())
+                        ).setData(new FrietkotMarkerData(frietkot));
+                    } catch (NullPointerException e) {
+                        // do nothing
+                    }
+                }
+            } catch (IOException e) {
+                Toast.makeText(getActivity().getBaseContext(), "Could open or parse JSON", Toast.LENGTH_LONG).show();
             }
-        });
 
-        return v;
+            map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
+                @Override
+                public void onInfoWindowClick(Marker marker) {
+                    onSelectFrietkotListener.onSelectFrietkotMarker((FrietkotMarkerData) marker.getData());
+
+                }
+            });
+        } catch (InflateException e) {
+            // map already exists, return as is
+        }
+        return view;
     }
 
     // This code was inspired by http://stackoverflow.com/questions/6181704/good-way-of-getting-the-users-location-in-android
@@ -118,4 +140,9 @@ public class MainFragment extends Fragment {
         CameraUpdate cameraUpdate = CameraUpdateFactory.newLatLngZoom(new LatLng(lat, lon), 10);
         map.animateCamera(cameraUpdate);
     }
+
+    public interface OnSelectFrietkotListener {
+        public void onSelectFrietkotMarker(FrietkotMarkerData data);
+    }
+
 }

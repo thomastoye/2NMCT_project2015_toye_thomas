@@ -5,4 +5,9 @@
         <!-- Customize your theme here. -->
     </style>
 
+    <style name="CustomTitleStyle">
+        <item name="android:textSize">30dp</item>
+        CustomTitleStyle
+    </style>
+
 </resources>
