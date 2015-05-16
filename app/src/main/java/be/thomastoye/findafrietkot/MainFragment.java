@@ -7,6 +7,7 @@ import android.location.Location;
 import android.location.LocationManager;
 import android.os.Bundle;
 import android.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -74,8 +75,7 @@ public class MainFragment extends Fragment {
         map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
             @Override
             public void onInfoWindowClick(Marker marker) {
-                marker.showInfoWindow();
-                Toast.makeText(getActivity().getBaseContext(), "Showed info window", Toast.LENGTH_SHORT);
+                Toast.makeText(getActivity().getBaseContext(), "Showed info window", Toast.LENGTH_SHORT).show();
 
             }
         });
