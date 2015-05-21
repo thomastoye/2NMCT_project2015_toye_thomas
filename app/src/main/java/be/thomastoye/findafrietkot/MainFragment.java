@@ -3,12 +3,17 @@ package be.thomastoye.findafrietkot;
 
 import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
 import android.location.Location;
 import android.location.LocationManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.app.Fragment;
 import android.view.InflateException;
 import android.view.LayoutInflater;
+import android.view.Menu;
+import android.view.MenuInflater;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
@@ -55,6 +60,8 @@ public class MainFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
+        setHasOptionsMenu(true);
+
         if (view != null) {
             ViewGroup parent = (ViewGroup) view.getParent();
             if (parent != null)
@@ -95,7 +102,7 @@ public class MainFragment extends Fragment {
             map.setOnInfoWindowClickListener(new GoogleMap.OnInfoWindowClickListener() {
                 @Override
                 public void onInfoWindowClick(Marker marker) {
-                    onSelectFrietkotListener.onSelectFrietkotMarker((FrietkotMarkerData) marker.getData());
+                    onSelectFrietkotListener.onSelectFrietkotMarker(((FrietkotMarkerData) marker.getData()).getFrietkot());
 
                 }
             });
@@ -134,7 +141,6 @@ public class MainFragment extends Fragment {
             // couldn't get current location - go to default
             lat = 50.835757;
             lon = 3.282668;
-            Toast.makeText(getActivity().getBaseContext(), "Could not get location", Toast.LENGTH_SHORT).show();
         }
 
         CameraUpdate cameraUpdate = CameraUpdateFactory.newLatLngZoom(new LatLng(lat, lon), 10);
@@ -142,7 +148,13 @@ public class MainFragment extends Fragment {
     }
 
     public interface OnSelectFrietkotListener {
-        public void onSelectFrietkotMarker(FrietkotMarkerData data);
+        public void onSelectFrietkotMarker(Frietkot data);
+    }
+
+    @Override
+    public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
+        super.onCreateOptionsMenu(menu, inflater);
+        inflater.inflate(R.menu.fragment_main_menu, menu);
     }
 
 }

@@ -18,7 +18,6 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.widget.Toast;
 
 import com.squareup.picasso.Picasso;
 
@@ -80,7 +79,6 @@ public class FrietkotDetailsFragment extends Fragment {
         frietkotRating = (TextView) v.findViewById(R.id.frietkotRating);
         frietkotAddress = (TextView) v.findViewById(R.id.frietkotAddress);
         frietkotImage = (ImageView) v.findViewById(R.id.frietkotImage);
-        frietkotNavigate = (Button) v.findViewById(R.id.frietkotNavigate);
 
         if (image != null) {
             Log.d(getClass().getSimpleName(), image.getBigImageUrl());
@@ -94,13 +92,6 @@ public class FrietkotDetailsFragment extends Fragment {
         } else {
             frietkotRating.setText(Double.toString(rating) + " op 5");
         }
-
-        frietkotNavigate.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Toast.makeText(getActivity().getBaseContext(), "Click", Toast.LENGTH_LONG).show();
-            }
-        });
 
         return v;
     }
@@ -132,8 +123,6 @@ public class FrietkotDetailsFragment extends Fragment {
     public boolean onOptionsItemSelected(MenuItem item) {
         switch (item.getItemId()) {
             case R.id.navigate:
-                Toast.makeText(getActivity().getBaseContext(), "Click", Toast.LENGTH_LONG).show();
-
                 Intent intent = new Intent(android.content.Intent.ACTION_VIEW,
                         Uri.parse("google.navigation:q=" + lat + "," + lon));
                 startActivity(intent);

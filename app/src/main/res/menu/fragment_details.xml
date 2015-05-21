@@ -3,7 +3,7 @@
 
 <item
     android:id="@+id/navigate"
-    android:icon="@android:drawable/ic_dialog_map"
+    android:icon="@android:drawable/ic_menu_mylocation"
     android:orderInCategory="10"
     android:showAsAction="ifRoom"
     android:title="Navigate"/>

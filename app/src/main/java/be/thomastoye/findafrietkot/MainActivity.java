@@ -5,21 +5,24 @@ import android.app.ActionBar;
 import android.app.Fragment;
 import android.app.FragmentTransaction;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.os.Build;
-import android.widget.Toast;
 
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationServices;
 
+import java.util.List;
+
+import be.thomastoye.findafrietkot.model.Frietkot;
 import be.thomastoye.findafrietkot.model.FrietkotMarkerData;
 
 
-public class MainActivity extends Activity implements MainFragment.OnSelectFrietkotListener {
+public class MainActivity extends Activity implements MainFragment.OnSelectFrietkotListener, TopFrietkotenFragment.TopFrietkotenProvider {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,7 +35,7 @@ public class MainActivity extends Activity implements MainFragment.OnSelectFriet
         }
 
         GoogleApiClient.Builder builder = new GoogleApiClient.Builder(getBaseContext())
-                                            .addApi(LocationServices.API);
+                .addApi(LocationServices.API);
 
         GoogleApiClient apiClient = builder.build();
 
@@ -47,27 +50,17 @@ public class MainActivity extends Activity implements MainFragment.OnSelectFriet
     }
 
     @Override
-    public boolean onOptionsItemSelected(MenuItem item) {
-        // Handle action bar item clicks here. The action bar will
-        // automatically handle clicks on the Home/Up button, so long
-        // as you specify a parent activity in AndroidManifest.xml.
-        int id = item.getItemId();
-
-        return super.onOptionsItemSelected(item);
-    }
-
-    @Override
-    public void onSelectFrietkotMarker(FrietkotMarkerData data) {
+    public void onSelectFrietkotMarker(Frietkot data) {
         showFrietkotDetailsFragment(data);
     }
 
-    private void showFrietkotDetailsFragment(FrietkotMarkerData data) {
-        String name = data.getFrietkot().getName();
-        double rating = data.getFrietkot().getRating();
-        String address = data.getFrietkot().getGeocode().getAddress();
-        String url = data.getFrietkot().getImageUrl();
-        String lat = Double.toString(data.getFrietkot().getGeocode().getLatitude());
-        String lon = Double.toString(data.getFrietkot().getGeocode().getLongitude());
+    private void showFrietkotDetailsFragment(Frietkot data) {
+        String name = data.getName();
+        double rating = data.getRating();
+        String address = data.getGeocode().getAddress();
+        String url = data.getImageUrl();
+        String lat = Double.toString(data.getGeocode().getLatitude());
+        String lon = Double.toString(data.getGeocode().getLongitude());
 
         FrietkotDetailsFragment fragment = FrietkotDetailsFragment.newInstance(name, address, rating, url, lat, lon);
         FragmentTransaction transaction = getFragmentManager().beginTransaction();
@@ -76,5 +69,33 @@ public class MainActivity extends Activity implements MainFragment.OnSelectFriet
         transaction.addToBackStack("mainFragment");
 
         transaction.commit();
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle item selection
+        switch (item.getItemId()) {
+            case R.id.topFrietkoten:
+                TopFrietkotenFragment fragment = new TopFrietkotenFragment();
+                FragmentTransaction transaction = getFragmentManager().beginTransaction();
+
+                transaction.replace(R.id.container, fragment, "topFrietkotenFragment");
+                transaction.addToBackStack("mainFragment");
+
+                transaction.commit();
+                return true;
+            default:
+                return super.onOptionsItemSelected(item);
+        }
+    }
+
+    @Override
+    public List<Frietkot> getTopFrietkoten() {
+        try{
+            return Frietkot.getAll(getResources().openRawResource(R.raw.friturengeocoded)).subList(0,10);
+        } catch (Exception e) {
+            Log.d(getClass().getSimpleName(), "Could not get top frietkoten");
+            return null;
+        }
     }
 }

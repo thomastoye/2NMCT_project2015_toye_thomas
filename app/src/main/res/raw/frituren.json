@@ -1,0 +1,2264 @@
+[
+  {
+    "name": "Chez Cathy",
+    "address": "Ten brielenstraat  163, 7780 Comines/Komen",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "jpm snack",
+    "address": "Bd des canadiens,66 66, 7711 Dottignies/Dottenijs",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Chez Betty",
+    "address": "Hovesstraat  77, 7850 Enghien/Edingen",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "frietuur de klitsberg",
+    "address": "tessenderlosesteenweg 53, 3583 Paal",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1568.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "op t pleintje",
+    "address": "Wingenestraat  12, 9880 Aalter",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Vanessa",
+    "address": "Wingenestraat b 32, 9880 Aalter",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Danny",
+    "address": "Brugsesteenweg  328, 9000 Gent",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/285.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Frietketel",
+    "address": "De papegaaiestraat  89, 9000 Gent",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1056.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Gouden Saté",
+    "address": "Sint-pietersplein , 9000 Gent",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1057.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Vliegende Friet",
+    "address": "Hillarestraat  229, 9160 Lokeren",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1567.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Kabouter Friet",
+    "address": "Jan Okeghemstraat 3, 9400 Okegem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1572.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Bea",
+    "address": "Grote steenweg  91, 9870 Olsene",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "APETITO",
+    "address": "Oudenaardestraat a 96, 9870 Olsene",
+    "rating": "4.8",
+    "imageUrl": ""
+  },
+  {
+    "name": "Fritland",
+    "address": "Rue henri maus  49, 9870 Olsene",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/122.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Michel",
+    "address": "Meerdorp  67, 9870 Olsene",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/31.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Lekkerbekske",
+    "address": "Kastanjelaan  69, 9870 Zulte",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "frituur ' t pleintje",
+    "address": "hernestraat  8, 1570 Tollembeek",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1275.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Raf",
+    "address": "Oude staatsbaan  80, 9991 Adegem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1012.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Wagonnetje",
+    "address": "Statiestraat  158, 1570 Tollembeek",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/109.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Den Heksenketel",
+    "address": "Plaats 3, 1547 Bever/Biévène",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Ba Munckske",
+    "address": "vroembos 48, 1670 Pepingen",
+    "rating": "4.1",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1058.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frietboutique Aalbeke",
+    "address": "Moeskroensesteenweg  202, 8511 Aalbeke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1561.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Anjo",
+    "address": "Gernestraat , 1570 Tollembeek",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Kartoffeltje - Chantal",
+    "address": "A. mervilliestraat  2, 8211 Aartrijke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1327.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Hete Brok",
+    "address": "Garzebekeveldstraat , 8660 Adinkerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur t pleintje",
+    "address": "Garzebekeveldstraat  22, 8660 Adinkerke",
+    "rating": "4.3",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Smulhoek ",
+    "address": "Kerkstraat 115, 8570 Anzegem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1389.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Oostlaan",
+    "address": "Pittemsestraat  10, 8850 Ardooie",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Lekkerbek",
+    "address": "Neerstraat  15, 8580 Avelgem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Plysier Sabrina",
+    "address": "Dijk  21, 8660 Adinkerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frietshop Shakespaere",
+    "address": "Oudenaardsesteenweg  35, 8580 Avelgem",
+    "rating": "3",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frietkotje",
+    "address": "Generaal lemanlaan  15, 8310 Assebroek",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1498.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friture Pizzy",
+    "address": "Stationsstraat  11, 8580 Avelgem",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bij Viviane",
+    "address": "Doorniksesteenweg  81, 8580 Avelgem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Den Afrit",
+    "address": "Reigerlostraat 1A, 8730 Beernem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1559.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Siske",
+    "address": "Roeselaarsestraat  26, 8850 Ardooie",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1571.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Smoefelhuisje",
+    "address": "Parkstraat  21, 8730 Beernem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1558.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Baronneke",
+    "address": "Baron ruzettelaan  146, 8310 Assebroek",
+    "rating": "3.6",
+    "imageUrl": ""
+  },
+  {
+    "name": "TRAMSTATIE",
+    "address": "Oostendestraat a 54, 8600 Beerst",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bellegem's Friethuisje",
+    "address": "Doornikserijksweg  134, 8510 Bellegem",
+    "rating": "4.1",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Park",
+    "address": "Leopoldstraat , 8370 Blankenberge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1401.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Dagmar",
+    "address": "Hoogstraat  49, 8531 Bavikhove",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Friet-Uurtje Station",
+    "address": "Kerkstraat 122, 8370 Blankenberge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/601.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "bissefriet",
+    "address": "bissegemplaats 5, 8501 Bissegem",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/819.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Food 66",
+    "address": "Wetstraat , 8370 Blankenberge",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Frank!",
+    "address": "Zeedijk  117, 8370 Blankenberge",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1404.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Bolleke",
+    "address": "Wervikstraat  53, 8980 Beselare",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "t' Krokantje",
+    "address": "Merksplasseweg  17, 8370 Blankenberge",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Minuut",
+    "address": "Hoogstraat  1, 8370 Blankenberge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1405.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Terminus",
+    "address": "Malecotsraat  7, 8370 Blankenberge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1403.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Master Friet",
+    "address": "Albert ruzettelaan  12, 8370 Blankenberge",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Wimpy's",
+    "address": "Leopoldstraat  28, 8370 Blankenberge",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Davy",
+    "address": "Vlaswaagplein  , 8501 Bissegem",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1283.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Marie Claire",
+    "address": "Fritz vinckelaan  5, 8450 Bredene",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/271.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Gilbert",
+    "address": "Kerkstraat  317, 8370 Blankenberge",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Retro",
+    "address": "Duinenstraat  210, 8450 Bredene",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1372.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Chez Vincent Brugge",
+    "address": "Sint-Salvatorskerkhof 1, 8000 Brugge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/675.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Bootje",
+    "address": "Langestraat  91, 8000 Brugge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1436.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Katspel",
+    "address": "Diksmuidseweg  411, 8904 Boezinge",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Frietpoortje",
+    "address": "Dudzeelse steenweg  95, 8000 Brugge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1439.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Alaska",
+    "address": "Kapelstraat  127, 8450 Bredene",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1368.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Vlamingdam",
+    "address": "Vlamingdam  8, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1440.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friethuis de Cottages",
+    "address": "Kerkstraat  322, 8370 Blankenberge",
+    "rating": "4.6",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/41.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Biezen",
+    "address": "Koningin elisabethlaan  32, 8000 Brugge",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1437.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "City 1",
+    "address": "Scheepsdalelaan  50, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1438.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frietshop",
+    "address": "Havenstraat  6, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1443.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur PATRIEK",
+    "address": "Torhoutsesteenweg  317, 8000 Brugge",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1434.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Lagune",
+    "address": "Gistelse steenweg  333, 8000 Brugge",
+    "rating": "3.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/157.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frietsalon",
+    "address": "blankenbergsesteenweg 208, 8000 Brugge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/531.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "P3 de beurze",
+    "address": "Hauwerstraat 17, 8000 Brugge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1503.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Peter",
+    "address": "Blankenbergse steenweg  193, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1444.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Kleine Hap",
+    "address": "Jules van praetstraat  75, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1433.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friterie 1900",
+    "address": "Markt 35, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1442.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Brugsch Friethuys",
+    "address": "Sint-jakobsstraat  1, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1445.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Mistral",
+    "address": "Kleppestraat  15, 8890 Dadizele",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "St-Louis",
+    "address": "Kerkstraat a 33, 8540 Deerlijk",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "frietmuseum brugge",
+    "address": "Vlamingstraat  33, 8000 Brugge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/20.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Frietje",
+    "address": "Ledegemstraat  9, 8890 Dadizele",
+    "rating": "3.9",
+    "imageUrl": ""
+  },
+  {
+    "name": "frituur picasso",
+    "address": "wenduinesteenweg 17, 8420 De Haan",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/537.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "martine",
+    "address": "Stationstraat , 8540 Deerlijk",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur 't koningsplein",
+    "address": "koningsplein  0, 8660 De Panne",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1264.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Dadifriet",
+    "address": "Beselarestraat 14a, 8890 Dadizele",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1570.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Markt - Belfort",
+    "address": "Markt  6, 8000 Brugge",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1313.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur DeLuxe",
+    "address": "Zeelaan 210, 8660 De Panne",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/228.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Frietje",
+    "address": "Ledegemsestraat  9, 8890 Dadizele",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "´t frietbakkerke",
+    "address": "Liebaardstraat.16 16, 8792 Desselgem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Quick Snack",
+    "address": "Zeedijk  25, 8660 De Panne",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "La Cabine",
+    "address": "Nieuwpoortlaan  13, 8660 De Panne",
+    "rating": "3.8",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Plaza",
+    "address": "Markt 0, 8660 De Panne",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/846.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Yzerlaan",
+    "address": "Ijzerlaan  13, 8600 Diksmuide",
+    "rating": "3.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Friet @ Home",
+    "address": "Stationstraat 2A, 8480 Eernegem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1353.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Tyrol",
+    "address": "Esenweg 144 B, 8600 Diksmuide",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/502.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friethuisje 't Veld",
+    "address": "Zedelgemsesteenweg  210, 8480 Eernegem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1355.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Duwo Snack",
+    "address": "Desselgem-dries  127, 8792 Desselgem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/530.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Willy's Diner",
+    "address": "Dorpsstraat  53, 8460 Ettelgem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1366.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Routier",
+    "address": "Menenstraat a 286, 8980 Geluveld",
+    "rating": "4.3",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Peter",
+    "address": "Oostendesteenweg  181, 8480 Eernegem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1364.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Smoefelke",
+    "address": "Kerkstraat  15, 8560 Gullegem",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Geert",
+    "address": "Kerkplein , 8560 Gullegem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Bankske",
+    "address": "Vijverlaan  15, 8560 Gullegem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Friet-Uurtje",
+    "address": "Gentsestraat  41, 8530 Harelbeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Filip",
+    "address": "Arendsstraat , 8530 Harelbeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Krokantje",
+    "address": "Westkerkestraat  13, 8480 Eernegem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1354.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Einde Harelbeke",
+    "address": "Kortrijksesteenweg , 8530 Harelbeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Dirk",
+    "address": "Kerkstraat / plein , 8530 Harelbeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Benny",
+    "address": "Kortrijksestraat  67, 8530 Harelbeke",
+    "rating": "4.6",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/692.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Smulhuisje",
+    "address": "Brugsebaan  76, 8470 Gistel",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Stasegemdorp ",
+    "address": "Stasegemdorp 1, 8530 Harelbeke",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Isabelle",
+    "address": "Bavikhoofsestraat  10, 8530 Harelbeke",
+    "rating": "4.2",
+    "imageUrl": ""
+  },
+  {
+    "name": "Terminus",
+    "address": "Spinnerijstraat  69, 8530 Harelbeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Spiesje",
+    "address": "Kortrijksestraat  351, 8501 Heule",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Capri",
+    "address": "Parkstraat  11, 8301 Heist-aan-Zee",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1394.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frietshop",
+    "address": "Generaal deprezstraat , 8530 Harelbeke",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Frans",
+    "address": "Sint-denijsplaats , 8940 Geluwe",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t klein kasteeltje",
+    "address": "Cardijnlaan a 1, 8600 Diksmuide",
+    "rating": "4.7",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Statie",
+    "address": "Stationsstraat  116, 8551 Heestert",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Travers",
+    "address": "Warande 1, 8501 Heule",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/845.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Houtems Eethuisje",
+    "address": "Westmolenstraat  15, 8630 Houtem, West-vlaanderen",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Ster",
+    "address": "Knokkestraat  16, 8301 Heist-aan-Zee",
+    "rating": "3.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1393.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Het Half Kieken",
+    "address": "Kortrijksestraat  5, 8501 Heule",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Koevoet",
+    "address": "Sint-katharinastraat  116, 8501 Heule",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Tineke",
+    "address": "Oude Ieperseweg  3+, 8501 Heule",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/902.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Platse",
+    "address": "Kerkstraat  52, 8650 Houthulst",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur - Snacks Christophe",
+    "address": "Engelstraat  32, 8480 Ichtegem",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/207.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur De Vijfwege",
+    "address": "Diksmuidebaan 102, 8480 Ichtegem",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/571.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Kattekwaad",
+    "address": "Grote markt  23, 8900 Ieper",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/397.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Lekkerbek",
+    "address": "Ieperstraat 13, 8830 Hooglede",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1204.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Alexandra",
+    "address": "Stationstraat  40, 8900 Ieper",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Puntzakje",
+    "address": "Jonkershovestraat 258, 8650 Houthulst",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1520.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "frituur a propoo",
+    "address": "Zonnebeekseweg , 8900 Ieper",
+    "rating": "4.5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Speedy",
+    "address": "Stationsplein , 8900 Ieper",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Bevoorrading",
+    "address": "Brugseweg  29, 8900 Ieper",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1033.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Kibbeling",
+    "address": "Jonkershovestraat  106, 8650 Houthulst",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "t friethuisje frituur-belegde broodjes",
+    "address": "poperingseweg 351, 8900 Ieper",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1090.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Karlina",
+    "address": "Torhoutbaan 177, 8480 Ichtegem",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1360.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Sint Joris",
+    "address": "Bruggestraat76 76, 8770 Ingelmunster",
+    "rating": "4.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Brochetje",
+    "address": "Ingelmunstersestraat  21, 8870 Izegem",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Sleewaert N",
+    "address": "Kuurnsesteenweg  59, 8531 Hulste",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "frituur de nostalgie",
+    "address": "roeselaarsestraat 174, 8870 Izegem",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/569.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur T'hoekske",
+    "address": "krekelstraat 250A, 8870 Izegem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1220.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Petatje",
+    "address": "Oostrozebekestraat  296, 8770 Ingelmunster",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "pat@friet",
+    "address": "Reningelststraat  20, 8956 Kemmel",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/71.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friethuis 't Dorp",
+    "address": "Rumbeeksestraat  4, 8870 Kachtem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/220.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Snack 't Hoekske",
+    "address": "Bruggesteenweg 1, 8581 Kerkhove",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/883.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Den Ast",
+    "address": "Rijksweg  5, 8870 Izegem",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/176.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Smulmarkt",
+    "address": "Wenduinesteenweg  17, 8420 Klemskerke",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Erly",
+    "address": "Mispelburgstraat , 8420 Klemskerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Pitstop",
+    "address": "Boterstraat  12, 8900 Ieper",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1294.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Mimi",
+    "address": "Driftweg  13, 8420 Klemskerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Isabelle",
+    "address": "Vissersstraat  29, 8420 Klemskerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "frituur tim",
+    "address": "Kanegemstraat a 165, 8700 Kanegem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Seaside",
+    "address": "Maria hendrikalaan -8 6, 8420 Klemskerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Rita",
+    "address": "Vosseslag  91, 8420 Klemskerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Must eat",
+    "address": "Lippenslaan 5, 8300 Knokke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1517.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Smulhoekje",
+    "address": "Sint-maartensplein  6, 8680 Koekelare",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1363.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Herbie",
+    "address": "Paul Parmentierlaan 11, 8300 Knokke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1397.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Sabrina",
+    "address": "Vosseslag  138, 8420 Klemskerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Kapelhoek",
+    "address": "Moerestraat a 75, 8680 Koekelare",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1362.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Passevite",
+    "address": "Rijselsestraat  112, 8900 Ieper",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Fred's Frietshop",
+    "address": "Stationsstraat , 8420 Klemskerke",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Frietje",
+    "address": "Zeelaan  97, 8670 Koksijde",
+    "rating": "4.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bonbini",
+    "address": "Zeelaan  58, 8670 Koksijde",
+    "rating": "1",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/5.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "t Frietbakkerke",
+    "address": "Sint maartensplein 0, 8680 Koekelare",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1361.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Niek",
+    "address": "Ardooisestraat  40, 8851 Koolskamp",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1036.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur & Eethuis Het Boerhof",
+    "address": "Provinciebaan 11, 8680 Koekelare",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/585.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friet-Shop",
+    "address": "Westendestraat , 8670 Koksijde",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Pacha",
+    "address": "Jan frans willemsstraat  4, 8670 Koksijde",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Friet & Co",
+    "address": "Strandlaan  379, 8670 Koksijde",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/948.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Gigi",
+    "address": "Zeelaan  259, 8670 Koksijde",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Frietgenot",
+    "address": "Staatsbaan  57, 8610 Kortemark",
+    "rating": "3.8",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/672.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Chip-Ping",
+    "address": "Stasegemsestraat  6, 8500 Kortrijk",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Blauwe Frituur",
+    "address": "Doorniksesteenweg  22, 8500 Kortrijk",
+    "rating": "4.1",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/175.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Fritbox",
+    "address": "Schrieksesteenweg , 8500 Kortrijk",
+    "rating": "2.5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Decock K",
+    "address": "Minister de taeyelaan  56, 8500 Kortrijk",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Gentpoort",
+    "address": "Gentsesteenweg  87, 8500 Kortrijk",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/355.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Volksplein",
+    "address": "Vooruitgangsstraat  37, 8500 Kortrijk",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/341.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Oostpoort",
+    "address": "Wandelweg 6, 8500 Kortrijk",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1516.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Jurrie",
+    "address": "Graaf Jansdijk 19, 8300 Knokke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1396.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Bossuwe - Kortrijk",
+    "address": "Stationsplein 0, 8500 Kortrijk",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1141.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur St-Pius",
+    "address": "Kuurnsesteenweg  84, 8500 Kortrijk",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Nieuw Kanon",
+    "address": "Doorniksewijk  186, 8500 Kortrijk",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Groeninghe",
+    "address": "Veemarkt 1, 8500 Kortrijk",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/401.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "t Smulhoekje",
+    "address": "Deerlijksestraat  58, 8500 Kortrijk",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1226.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Thelma & Louis",
+    "address": "Burgemeester reynaertstraat  8, 8500 Kortrijk",
+    "rating": "3",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Houtmarkt",
+    "address": "Houtmarkt  19, 8500 Kortrijk",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/411.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Johan",
+    "address": "Beekstraat  11, 8500 Kortrijk",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/83.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur 'PLATSE'",
+    "address": "Marktplein 7, 8520 Kuurne",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1247.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Brochetje",
+    "address": "Brugsesteenweg  136, 8500 Kortrijk",
+    "rating": "4.8",
+    "imageUrl": ""
+  },
+  {
+    "name": "Coctail",
+    "address": "Brugsesteenweg  189, 8520 Kuurne",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Richard",
+    "address": "Helmstraat  119, 8520 Kuurne",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Vanhoutteghem",
+    "address": "Spoorwegstraat  1, 8930 Lauwe",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Lauws Gebak",
+    "address": "Leiestraat 5, 8930 Lauwe",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1527.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "frituur louis",
+    "address": "dorpstraat 88, 8432 Leffinge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/726.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Kwiezientje",
+    "address": "Hoogstraat  21, 8810 Lichtervelde",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1308.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Brochetje",
+    "address": "Marktplaats  14, 8810 Lichtervelde",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1309.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Flitspaele",
+    "address": "Staatsbaan  a 189, 8610 Kortemark",
+    "rating": "3",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Tamarind Burgerhuis",
+    "address": "Dorpsplein  16, 8860 Lendelede",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1565.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Speedy Snack",
+    "address": "Brugsebaan  1, 8810 Lichtervelde",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/386.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Romantica",
+    "address": "Brugsebaan  37, 8810 Lichtervelde",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Matisse",
+    "address": "Brugsesteenweg  50, 8520 Kuurne",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/456.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Puntzak",
+    "address": "Dorpsplein  21, 8434 Lombardsijde",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/244.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Speedy Snack",
+    "address": "Stationsstraat  32, 8210 Loppem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/180.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Bolero Kortrijk",
+    "address": "Oudenaardsesteenweg  270, 8500 Kortrijk",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1133.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Sportiefke",
+    "address": "Gymnasiastraat , 8510 Marke",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Justy's frietshop",
+    "address": "Zeebruggelaan  30, 8380 Lissewege",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1196.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Hoeksje",
+    "address": "Lombardsijdelaan  195, 8434 Lombardsijde",
+    "rating": "4.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1509.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Buikske",
+    "address": "Bevrijdingsplein  1, 8930 Menen",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1471.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friethuis Menen",
+    "address": "Bruggestraat 68, 8930 Menen",
+    "rating": "4.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/763.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Atheletico",
+    "address": "Waalvest  104, 8930 Menen",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1470.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Alcazar",
+    "address": "Wervikstraat  89, 8930 Menen",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Petra",
+    "address": "Guido gezellelaan  114, 8930 Menen",
+    "rating": "4.7",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Den Eik",
+    "address": "Ieperstraat 392, 8930 Menen",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/838.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur in de natuur",
+    "address": "Kleine pontestraat  7, 8510 Marke",
+    "rating": "4.3",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Sneppe",
+    "address": "Markt  13, 8760 Meulebeke",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/361.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Fleur",
+    "address": "Bruggestraat  620, 8930 Menen",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/372.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Pinokkio",
+    "address": "Zandputstraat  1, 8930 Menen",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Temperman L",
+    "address": "Moeskroenstraat  8, 8930 Menen",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Lekkerbek",
+    "address": "Leopoldlaan  127, 8430 Middelkerke",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur-Snack-Marc",
+    "address": "Valerius de saedeleerpad  1, 8380 Lissewege",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Linda",
+    "address": "Kasteelstraat  2, 8760 Meulebeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Jack's Potato",
+    "address": "Leopoldlaan  70, 8430 Middelkerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Nieuwe Brug",
+    "address": "Bossuitstraat  20, 8552 Moen",
+    "rating": "3.5",
+    "imageUrl": ""
+  },
+  {
+    "name": "MERCATOR",
+    "address": "Heirweg , 8430 Middelkerke",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1092.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Pont d'Amour",
+    "address": "Nieuwkerkestraat  21, 8950 Nieuwkerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Annick",
+    "address": "Leopoldlaan  262, 8430 Middelkerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Cogroti",
+    "address": "Albert i laan  a 178, 8620 Nieuwpoort",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Decroubele M",
+    "address": "Overheulestraat  75, 8560 Moorsele",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Fritshop Menen 'Bij Tim'",
+    "address": "Rijselstraat  94, 8930 Menen",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur 't Standbeeld",
+    "address": "Sint janstraat , 8560 Moorsele",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Patrick",
+    "address": "Sint-brixiusplein , 8710 Ooigem",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Speedy",
+    "address": "Leopold ii laan  47, 8670 Oostduinkerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frietshop Koen",
+    "address": "Oostrozebeeksestraat  54, 8710 Ooigem",
+    "rating": "4.3",
+    "imageUrl": ""
+  },
+  {
+    "name": "bjornsfastfood",
+    "address": "Zilverlaan  316, 8400 Oostende",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/377.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "tfriet-uurtje",
+    "address": "Yzer  1, 8620 Nieuwpoort",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/218.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Burnie's Friet House",
+    "address": "Dokter eduard moreauxlaan  125, 8400 Oostende",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1374.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Cannibal",
+    "address": "Hertstraat  8, 8400 Oostende",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1375.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Gondeltje",
+    "address": "Albert i laan  68, 8670 Oostduinkerke",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Velle M",
+    "address": "Konijnepijpweg  11, 8670 Oostduinkerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Keuntje",
+    "address": "Dokter eduard moreauxlaan  29, 8400 Oostende",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1373.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Stroopijp",
+    "address": "Natienlaan  12, 8340 Moerkerke",
+    "rating": "4.2",
+    "imageUrl": ""
+  },
+  {
+    "name": "friethoek",
+    "address": "Dr.eduard moreauxlaan  17, 8400 Oostende",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Haring",
+    "address": "Graaf de smet de naeyerlaan  20, 8400 Oostende",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frietstop",
+    "address": "Chrysantenstraat  1, 8400 Oostende",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/260.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Franky ",
+    "address": "Karel Janssenslaan 53, 8400 Oostende",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1479.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur J&L",
+    "address": "Nieuwedokstraat 1, 8400 Oostende",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1250.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Funky Friet House",
+    "address": "Torhoutsesteenweg 47, 8400 Oostende",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1112.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frietshop Brian & Kim",
+    "address": "Nieuwpoortsesteenweg  215, 8400 Oostende",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1376.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Old Ham Frituur",
+    "address": "Langestraat  78, 8400 Oostende",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Liberty",
+    "address": "Nieuwpoortsesteenweg  290, 8400 Oostende",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/373.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Danny",
+    "address": "Torhoutsesteenweg  327, 8400 Oostende",
+    "rating": "3.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/112.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur D-licous ",
+    "address": "Zandvoordestraat 18, 8400 Oostende",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1023.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Smul",
+    "address": "Leffingestraat  108, 8400 Oostende",
+    "rating": "4.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Moorke",
+    "address": "Brugsestraat  78, 8020 Oostkamp",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Whoopies Friethouse",
+    "address": "Vindictivelaan  3, 8400 Oostende",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Liesjes",
+    "address": "Zeedijk  146, 8400 Oostende",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/9.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "City I",
+    "address": "Kortrijksestraat  15, 8020 Oostkamp",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1356.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Dumbo",
+    "address": "Lieven Gevaertplein  6, 8020 Oostkamp",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1475.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Ginste",
+    "address": "Grotstraat  84, 8780 Oostrozebeke",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/82.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Rudy",
+    "address": "Nieuwpoortsesteenweg  513, 8400 Oostende",
+    "rating": "4.5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Vivaldi",
+    "address": "Meulebroekenlaan 18, 8840 Oostnieuwkerke",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/800.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Joos S",
+    "address": "Wielsbekestraat  16, 8780 Oostrozebeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frietshop Filip",
+    "address": "Otegemplaats 10, 8553 Otegem",
+    "rating": "4.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1388.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Friet-uurtje",
+    "address": "Hoogstraat  6, 8460 Oudenburg",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1367.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Bolero",
+    "address": "Tieltstraat  36, 8740 Pittem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1323.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "pas'friet",
+    "address": "Statiestraat , 8980 Passendale",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Huyge D",
+    "address": "Tieltsteenweg  34, 8780 Oostrozebeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frietshop Snack Paradiso",
+    "address": "Wielsbekestraat  42, 8780 Oostrozebeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Nadine",
+    "address": "Tieltstraat 44, 8740 Pittem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/729.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Smoske",
+    "address": "Veurnestraat  2, 8970 Poperinge",
+    "rating": "4.6",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/289.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frietshop Step-In",
+    "address": "Europalaan  4, 8970 Poperinge",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Sealing",
+    "address": "Nieuwstraat  31, 8400 Oostende",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Du Tram",
+    "address": "Grote markt  8, 8970 Poperinge",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Barakke",
+    "address": "Moeskroenstraat  - 8 4, 8930 Rekkem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Friethuis",
+    "address": "Zuidstraat  13, 8800 Roeselare",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/117.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Buddy's",
+    "address": "Meensesteenweg  608, 8800 Roeselare",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1427.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Petit Paris",
+    "address": "Koninginnelaan  77, 8400 Oostende",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/269.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Bip Bip",
+    "address": "Langestraat  29, 8400 Oostende",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bistro A Point",
+    "address": "Brugseweg 186, 8920 Poelkapelle",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1182.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Catherine",
+    "address": "Ardooisesteenweg  117, 8800 Roeselare",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1429.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Den Mammoet",
+    "address": "Brugsesteenweg  449, 8800 Roeselare",
+    "rating": "4.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1428.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "La belle cardor",
+    "address": "Mandellaan 274, 8800 Roeselare",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1232.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Jimmy's Frietshop",
+    "address": "Beversesteenweg 193, 8800 Roeselare",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/203.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Snack-O-Theek",
+    "address": "Hoogleedsesteenweg  210, 8800 Roeselare",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1430.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Monique",
+    "address": "Stationsdreef  0, 8800 Roeselare",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1432.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Berehap",
+    "address": "Sint-Elooisstraat 14, 8020 Ruddervoorde",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1473.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Viviane",
+    "address": "Brugsesteenweg 218, 8460 Roksem",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1380.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Saxo",
+    "address": "Aalbeeksestraat  3, 8510 Rollegem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/170.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Marks Frituur Snack",
+    "address": "Izegemseaardeweg  8, 8800 Roeselare",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1431.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Kartoffelke",
+    "address": "Kwadestraat 28, 8800 Rumbeke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1125.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Zilverberg",
+    "address": "Meensesteenweg  464, 8800 Rumbeke",
+    "rating": "4.2",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Posterij",
+    "address": "Torhoutsestraat  215, 8020 Ruddervoorde",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1474.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Sterrebos",
+    "address": "Blommestraat  83, 8800 Rumbeke",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "koe-koe",
+    "address": "Brugsesteenweg  288, 8800 Roeselare",
+    "rating": "4.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/10.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Rumbeke platse",
+    "address": "Kerkplein z/n , 8800 Rumbeke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/225.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frietkotje",
+    "address": "Gistelse steenweg  4, 8200 Sint-Andries",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1447.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Stadion",
+    "address": "Gistelsesteenweg  503, 8200 Sint-Andries",
+    "rating": "4.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1448.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Carlos",
+    "address": "Gistelse steenweg 526, 8200 Sint-Andries",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1446.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Het Friettreffen",
+    "address": "Sint-janstraat , 8880 Rollegem-Kapelle",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t friethuisje",
+    "address": "gistesesteenweg  172, 8200 Sint-Andries",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/492.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "frituur 't rond punt",
+    "address": "Gullegemsestraat , 8880 Sint-Eloois-Winkel",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "t Frit-Uurke",
+    "address": "Roterijstraat  226, 8793 Sint-Eloois-Vijve",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Marnix",
+    "address": "Moerkerkse steenweg  181, 8310 Sint-Kruis",
+    "rating": "4.3",
+    "imageUrl": ""
+  },
+  {
+    "name": "Rakonti",
+    "address": "Maalsesteenweg 391, 8310 Sint-Kruis",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1326.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "frituur sabine en serge",
+    "address": "Fabriekstraat  108, 8840 Staden",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "friethoek",
+    "address": "Wingensesteenweg  111, 8700 Schuiferskapelle",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/162.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Pleintje",
+    "address": "Rameplein 21, 8700 Tielt",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1320.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Notelaar",
+    "address": "Ommegang zuid  18, 8840 Staden",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1148.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Sandra",
+    "address": "Nieuwplaats , 8920 Poelkapelle",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Friethuis",
+    "address": "Westdorp , 8573 Tiegem",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1387.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Bosrand",
+    "address": "Koning albert 1 laan 8200, 8200 Sint-Michiels",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1086.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Zwaantje",
+    "address": "Alexis decarneplein  1, 8691 Stavele",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Red Rooster Fast Food",
+    "address": "Stationsstraat  15, 8820 Torhout",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1316.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Ter Dycke",
+    "address": "Roeselaarseweg  11, 8820 Torhout",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1359.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Den Tipzak",
+    "address": "Deken darraslaan  8, 8700 Tielt",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1483.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Mauritius",
+    "address": "Gistelsesteenweg 133, 8490 Varsenare",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/415.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Het Engels Hof",
+    "address": "Noordlaan 5a, 8820 Torhout",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1181.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Twiety",
+    "address": "Ruddervoordestraat  111, 8820 Torhout",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/118.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Karien",
+    "address": "Gistelsteenweg  77, 8490 Varsenare",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/72.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Eurofriet",
+    "address": "Pittemsesteenweg 21, 8700 Tielt",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1322.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Megabite",
+    "address": "Koning albertstraat  88, 8210 Veldegem",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/42.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Terminus",
+    "address": "Stationsplein 21, 8700 Tielt",
+    "rating": "3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1319.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Smulhoekje",
+    "address": "Pannestraat a 31, 8630 Veurne",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Den Engel",
+    "address": "Westvleterendorp  4, 8640 Vleteren",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Demeulemeester E",
+    "address": "Wapenplaats  2, 8720 Wakken",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Hete Brok",
+    "address": "Ieperse steenweg  a 101, 8630 Veurne",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Passe Vite",
+    "address": "Vleeshouwerstraat  2, 8630 Veurne",
+    "rating": "4.6",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/107.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friethoek",
+    "address": "Vredelaan  2, 8820 Torhout",
+    "rating": "4.5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/178.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Bea",
+    "address": "Wapenplaats  31, 8720 Wakken",
+    "rating": "4.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Rigifri",
+    "address": "Galgestraat  48, 8790 Waregem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Samir",
+    "address": "Keukeldam 5, 8790 Waregem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/803.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friettijd",
+    "address": "Watouplein 16, 8978 Watou",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1111.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur COLYNY",
+    "address": "nieuwpoortkeiweg  2, 8630 Veurne",
+    "rating": "3.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/884.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "frituur de statie",
+    "address": "noorderlaan 71+, 8790 Waregem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/936.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Tuimelaar",
+    "address": "Delacenseriestraat  23, 8420 Wenduine",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/29.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Park",
+    "address": "Kruisekestraat  86, 8940 Wervik",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Bolero",
+    "address": "Hoogweg  1, 8940 Wervik",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/110.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Finidi",
+    "address": "Speldenstraat , 8940 Wervik",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Francky",
+    "address": "Henri lebbestraat , 8790 Waregem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Magic Garden",
+    "address": "Leopold ii laan  3, 8420 Wenduine",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/199.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "St-Medard",
+    "address": "Leiestraat  3, 8940 Wervik",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Verstraete-Verkindere",
+    "address": "Komenstraat  53, 8940 Wervik",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Leeuwke",
+    "address": "holstraat 88, 8790 Waregem",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1499.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Comme Chez Toi",
+    "address": "Rodebergstraat  81, 8954 Westouter",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Els",
+    "address": "Westendelaan  329, 8434 Westende",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/190.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur Domino",
+    "address": "Westendelaan  273, 8434 Westende",
+    "rating": "3.8",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/114.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Comptdaer Fanny",
+    "address": "Nieuwstraat  187, 8560 Wevelgem",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Fritshop Joske",
+    "address": "Filip van arteveldestraat  22, 8840 Westrozebeke",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "Cupido",
+    "address": "Menenstraat  382, 8560 Wevelgem",
+    "rating": "4.6",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1484.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friethuis De Cockpit",
+    "address": "Kortrijkstraat , 8560 Wevelgem",
+    "rating": "3",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Bossuwé Wevelgem",
+    "address": "Kortrijkstraat  396, 8560 Wevelgem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1254.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Kapel",
+    "address": "Laagweg  3, 8940 Wervik",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Huby",
+    "address": "Kortrijkstraat  75, 8560 Wevelgem",
+    "rating": "4.1",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Pyckles",
+    "address": "Kloosterstraat  52, 8560 Wevelgem",
+    "rating": "5",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Vichtenaarke",
+    "address": "Harelbekestraat  1, 8570 Vichte",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1390.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Friterie Dailly",
+    "address": "Avenue chazal b 1, 8434 Westende",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Pauwels",
+    "address": "Heirweg  33, 8431 Wilskerke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Drie Masten",
+    "address": "Driemasten , 8560 Wevelgem",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "de frietstop",
+    "address": "Gistelsesteenweg  23, 8460 Westkerke",
+    "rating": "4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1365.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Evelyne",
+    "address": "Rijksweg 247, 8710 Wielsbeke",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "Sint Elooi",
+    "address": "Zarrenplein  9, 8610 Zarren",
+    "rating": "4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Frituur Gouden Frietje ('t)",
+    "address": "Baron van der Bruggenlaan  14, 8710 Wielsbeke",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1557.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "FrietFun",
+    "address": "Beernemsteenweg  94, 8750 Wingene",
+    "rating": "4.1",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/184.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Chalet",
+    "address": "Torhoutsesteenweg a 297, 8210 Zedelgem",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1325.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "PimPamPoentje",
+    "address": "Oude bruggestraat  26, 8750 Wingene",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/274.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Kanon",
+    "address": "Wulvestraat  55, 8902 Zillebeke",
+    "rating": "4.3",
+    "imageUrl": ""
+  },
+  {
+    "name": "Met of zonder",
+    "address": "Vismijnstraat  11, 8380 Zeebrugge",
+    "rating": "4.3",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1398.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Vierwege",
+    "address": "Blankenbergse steenweg  74, 8377 Zuienkerke",
+    "rating": "4.7",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1400.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Chaplin",
+    "address": "Otegemstraat  105, 8550 Zwevegem",
+    "rating": "4.4",
+    "imageUrl": ""
+  },
+  {
+    "name": "Sano",
+    "address": "Snellegemsestraat 5, 8210 Zedelgem",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1324.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Frituur PHILIPPE",
+    "address": "Beernemstraat a 34, 8750 Wingene",
+    "rating": "4.6",
+    "imageUrl": ""
+  },
+  {
+    "name": "De Brug",
+    "address": "Otegemstraat  276, 8550 Zwevegem",
+    "rating": "4.2",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1391.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "De Passage",
+    "address": "Kortrijksteenweg  a 17, 8750 Zwevezele",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1472.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Kastaarke",
+    "address": "Kustlaan  102, 8380 Zeebrugge",
+    "rating": "5",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1399.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Fritterie de la Place",
+    "address": "Ieperstraat  47, 8953 Wijtschate",
+    "rating": "",
+    "imageUrl": ""
+  },
+  {
+    "name": "'t Friethuisje Den Hille",
+    "address": "Wingenesteenweg 17, 8750 Zwevezele",
+    "rating": "",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/499.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "'t Frietje",
+    "address": "Bekaertstraat 0, 8550 Zwevegem",
+    "rating": "4.4",
+    "imageUrl": "http://www.vindeenfrituur.be/classes/phpThumb/phpThumb.php?src=/storage/frituur/shops/1392.jpg&w=250&h=220&zc=1&q=100&aoe=1"
+  },
+  {
+    "name": "Whoepi",
+    "address": "Kortrijkstraat  98, 8550 Zwevegem",
+    "rating": "4.4",
+    "imageUrl": ""
+  }
+]
